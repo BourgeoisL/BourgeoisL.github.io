@@ -8,8 +8,7 @@ body {
 	background-color: rgb(16, 6, 6);
 }
 /* #videopresentation{ position: relative;} */
-#menu {
-}
+
 /* #video{position: relative;} */
 
 ul {
@@ -104,4 +103,4 @@ ul {
 .p2:hover {
 	opacity: 0.7;
 	transform: scale(1.05);
-	transition: 0.6s ease-in-out;
+	transition: 0.6s ease-in-out;}
